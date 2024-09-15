@@ -3,9 +3,9 @@ I am not a programmer
 
 ## 📫 Contact me:
 
-- Telegram: [=^. .^=](https://t.me/Thelmarsl
+- Telegram: [=^. .^=](https://t.me/Thelmarsl)
 - Email: [=^. .^=](jahamarsi@gmail.com)
-- Portfolio: [=^. .^=](https://jahamars.github.io/pages/)
+- Portfolio: [=^. .^=](https://jahamars.github.io/portfolio/)
 
 ## 📈 GitHub Stats
 
