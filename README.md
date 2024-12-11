@@ -6,6 +6,7 @@
 - Telegram: [=^. .^=](https://t.me/Thelmarsl)
 - Email: [=^. .^=](jahamarsi@gmail.com)
 - Portfolio: [=^. .^=](https://jahamars.github.io/portfolio/)
+- Blog: [=^. .^=](https://mars.mixa.site)
 
 ## 📈 GitHub Stats
 
