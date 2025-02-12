@@ -1,16 +1,12 @@
-![ gruvbox/vim ](https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s540x810/b373eb4bbf73d955bc00c18d170b4093d6ad9044.gifv)
+![ gruvbox/vim ](https://media.tenor.com/2ITHaiXAjNcAAAAj/night-shift-work.gif)
 
 
-## Contact me:
+| Contact     | me:                                                                                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Telegram    | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gruvboxx)    |
+| Email       | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahamarsi@gmail.com)        |
+| Blog        | [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://mars.mixa.site)          |
+| Other links | [![Links](https://img.shields.io/badge/Links-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jahamars/sert) |
 
-- Telegram: [=^. .^=](https://t.me/gruvboxx)
-- Email: [=^. .^=](jahamarsi@gmail.com)
-- Portfolio: [=^. .^=](https://jahamars.github.io/)
-- Blog: [=^. .^=](https://mars.mixa.site)
-- Links: [=^. .^=](https://github.com/Jahamars/sert)
-
-## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahamars&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahamars&layout=compact&theme=dracula)
