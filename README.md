@@ -2,8 +2,6 @@
   <img src="https://media.tenor.com/2ITHaiXAjNcAAAAj/night-shift-work.gif" alt="gruvbox/vim">
 </p>
 
-<h3 align="center"> Contact Me</h3>
-
 <p align="center">
   <a href="https://t.me/gruvboxx">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
@@ -19,10 +17,8 @@
   </a>
 </p>
 
-
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahamars&show_icons=true&theme=gruvbox&rank_icon=github" width="48%">
-  <img src="https://streak-stats.demolab.com?user=jahamars&theme=gruvbox-duo&hide_border=true&short_numbers=true" width="48%">
+  <img src="https://streak-stats.demolab.com?user=jahamars&theme=gruvbox-duo&hide_border=true&short_numbers=true" width="60%">
 </p>
