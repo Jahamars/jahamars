@@ -9,4 +9,4 @@
 | Other links | [![Links](https://img.shields.io/badge/Links-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jahamars/sert) |
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahamars&rank_icon=github&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=jahamars&theme=gruvbox-duo&hide_border=true&short_numbers=true)
