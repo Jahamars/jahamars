@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
 </p>
+
 ---
 
 <p align="center">
