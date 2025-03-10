@@ -9,7 +9,7 @@
   <a href="mailto:jahamarsi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://hyprland.netlify.app">
+  <a href="https://jmee.netlify.app">
     <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   </a>
   <a href="https://github.com/Jahamars/sert">
